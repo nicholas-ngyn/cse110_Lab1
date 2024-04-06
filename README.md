@@ -1,1 +1,1 @@
-I love python
+https://nicholas-ngyn.github.io/cse110_Lab1/ 

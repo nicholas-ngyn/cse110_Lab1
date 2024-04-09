@@ -9,7 +9,7 @@ hello()
 ```
 _Fueled by my interest in algorithms and software development, I'm always on the lookout for new challenges to grow my expertise. I'm eager to continue my exploration of technology, driven by my passion for innovation and problem-solving. Outside of academics, you'll often find me hitting the gym, enjoying meals with friends, and occasionally unwinding at raves for some fun-filled moments with my buddies._
 
-## My Programming Journey
+## [My Programming Journey](#my-programming-journey)
 
 ### Languages I'm Experienced With:
 - Python
@@ -22,7 +22,7 @@ _Fueled by my interest in algorithms and software development, I'm always on the
 2. Web Development
 3. Machine Learning
 
-## My Projects
+## [My Projects](#my-projects)
 
 ### Project 1: Personal Website
 >_I'm currently working on building my personal website using HTML/CSS & Javascript. It's been a great learning experience diving into frontend development and creating an interactive user interface._
@@ -36,7 +36,7 @@ _Fueled by my interest in algorithms and software development, I'm always on the
 ### Project 4: Computer Vision
 >_I learned about employing NumPy for effective manipulation of image data, ensuring optimal processing capabilities within the system, and utilizing OpenCV to implement advanced image processing techniques, enabling seamless execution of diverse computer vision tasks._
 
-## More About Me
+## [More About Me](#more-about-me)
 
 ### Some of my fav FOOD spots in SD
 [FOOD LIST](food-spots.md)

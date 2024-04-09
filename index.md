@@ -1,5 +1,11 @@
 # Welcome to My User Page!
 
+## Table of Contents
+- [About Me](#about-me)
+- [My Programming Journey](#my-programming-journey)
+- [My Projects](#my-projects)
+- [More About Me](#more-about-me)
+
 ## [About Me](#about-me)
 _Hey there, I'm Nicholas Nguyen, currently 2nd year Computer Science major at UCSD. My coding journey began in sophomore year of high school, where I was introduced to the fundamentals of programming and also where I first learned the iconic "hello world":_
 ```

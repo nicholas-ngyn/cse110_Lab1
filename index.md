@@ -49,9 +49,9 @@ _Fueled by my interest in algorithms and software development, I'm always on the
 
 ### Top 5 Dream Vacation Spots
 - [ ] Japan
-- [x] Vietnam
+- [x] ~~Vietnam~~
 - [ ] Italy
-- [x] Mexico
+- [x] ~~Mexico~~
 - [ ] Bali
 
 ### Current Favorite Animal
